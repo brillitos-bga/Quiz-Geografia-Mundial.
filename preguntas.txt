@@ -1,0 +1,11 @@
+
+¿Cuál es la capital de Australia?|Canberra|Sídney|Melbourne|Perth|Canberra
+¿Cuál es el río más largo del mundo según la clasificación tradicional?|Nilo|Amazonas|Yangtsé|Misisipi|Nilo
+¿Cuál es la montaña más alta de América?|Aconcagua|Denali|Huascarán|Chimborazo|Aconcagua
+¿Qué país tiene forma de bota?|Italia|España|Grecia|Portugal|Italia
+¿Cuál es la capital de Japón?|Tokio|Kioto|Osaka|Nagasaki|Tokio
+¿En qué continente se encuentra el desierto del Sahara?|África|Asia|Oceanía|Europa|África
+¿Cuál es la montaña más alta del mundo?|Everest|K2|Kilimanjaro|Mont Blanc|Everest
+¿Qué río atraviesa Egipto?|Nilo|Danubio|Rin|Volga|Nilo
+¿Cuál es la capital de Canadá?|Ottawa|Toronto|Vancouver|Montreal|Ottawa
+¿En qué continente se encuentra Brasil?|América del Sur|Europa|África|Asia|América del Sur
